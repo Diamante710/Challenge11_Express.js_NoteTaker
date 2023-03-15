@@ -8,7 +8,6 @@ notes.get('/', (req, res) => {
 
 notes.post('/', (req, res) => {
   const { title, text } = req.body;
-  console.log(req.body)
   if (title && text) {
     const newFeedback = {
       title,
@@ -37,4 +36,5 @@ notes.delete('/:id', (req, res) => {
     res.json("Note Deleted")
   })
 })
+
 module.exports = notes;
