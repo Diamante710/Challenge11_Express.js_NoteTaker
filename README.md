@@ -5,7 +5,7 @@
 * [Task](#Task)
 * [User Story](#User-Story)
 * [Mock-Up](#Mock-Up)
-* [Demo] (#Demo)
+* [Demo](#Demo)
 * [Contact Information](#Contact-Information)
 
 ## <a name="Task"></a>Task
